@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-server-mysql:alpine-5.0.23
+FROM zabbix/zabbix-server-mysql:ubuntu-5.4.5
 
 LABEL maintainer="mr.lioncub" \
       link1="https://github.com/zabbix/zabbix-docker/tree/6.0/server-mysql/alpine" \
